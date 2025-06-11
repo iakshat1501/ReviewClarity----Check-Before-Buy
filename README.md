@@ -19,6 +19,10 @@ An intelligent Amazon product review analyzer using web scraping, sentiment anal
 📥 Download Cleaned Reviews Dataset
 📈 Future-Ready Architecture for scaling
 
+# 🖥️ Streamlit App Preview
+![ReviewClarity](https://github.com/user-attachments/assets/b4c7040f-d3ec-489a-9d1d-e348c4cbc6e9)
+
+
 # 🚀 Workflow
 1️⃣ Web Scraping
 Uses Selenium to scrape reviews from Amazon product pages.
@@ -55,14 +59,14 @@ ReviewClarity--CheckBeforeBuy/
 
 # 🛠 Technologies Used
 
-Python 3.x
-Selenium
-Pandas
-Scikit-learn
-WordCloud
-Streamlit
-Matplotlib
-Pickle
+- Python 3.x
+- Selenium
+- Pandas
+- Scikit-learn
+- WordCloud
+- Streamlit
+- Matplotlib
+- Pickle
 
 # 📈 Future Scope
 
