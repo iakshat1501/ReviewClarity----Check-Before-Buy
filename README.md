@@ -1,5 +1,5 @@
 # ReviewClarity -- Check Before Buy 🛒
-An intelligent Amazon product review analyzer using web scraping, sentiment analysis, and real-time recommendation to help users make better buying decisions.
+An intelligent product review analyzer using web scraping, sentiment analysis, and real-time recommendation to help users make better buying decisions.
 
 # 🔎 Project Overview
 
@@ -20,8 +20,10 @@ An intelligent Amazon product review analyzer using web scraping, sentiment anal
 📈 Future-Ready Architecture for scaling
 
 # 🖥️ Streamlit App Preview
-![ReviewClarity](https://github.com/user-attachments/assets/b4c7040f-d3ec-489a-9d1d-e348c4cbc6e9)
+![ReviewClarity](https://github.com/user-attachments/assets/3f79d346-5cc2-4bc4-9c3f-0ed830baa3d8)
 
+before training model...
+Data EDA ![DataEDA_ReviewClarity](https://github.com/user-attachments/assets/7952c481-696a-4073-9089-3ce08efc78f3)
 
 # 🚀 Workflow
 1️⃣ Web Scraping
@@ -70,9 +72,9 @@ ReviewClarity--CheckBeforeBuy/
 
 # 📈 Future Scope
 
-🚀 Deploy on cloud platform (AWS, Heroku, etc.)
-💡 Add multi-language review support.
-🏷️ Include product feature extraction.
-📊 Advanced model architecture (e.g. BERT, transformers)
-🌎 Add support for other e-commerce platforms.
+- 🚀 Deploy on cloud platform (AWS, Heroku, etc.)
+- 💡 Add multi-language review support.
+- 🏷️ Include product feature extraction.
+- 📊 Advanced model architecture (e.g. BERT, transformers)
+- 🌎 Add support for other e-commerce platforms.
 
