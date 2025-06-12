@@ -11,19 +11,19 @@ An intelligent product review analyzer using web scraping, sentiment analysis, a
 - Provides a simple, user-friendly interface built with Streamlit.
 
 # 💡 Key Features
-🔗 Amazon URL-based scraping
-🧹 Review Cleaning & Preprocessing
-🤖 ML-powered Sentiment Analysis (using trained sentiment_model.pkl & tfidf_vectorizer.pkl)
-📊 EDA on Amazon Reviews Dataset (data_eda.py)
-🌐 Streamlit-based Web App UI
-📥 Download Cleaned Reviews Dataset
-📈 Future-Ready Architecture for scaling
+- 🔗 Amazon URL-based scraping
+- 🧹 Review Cleaning & Preprocessing
+- 🤖 ML-powered Sentiment Analysis (using trained sentiment_model.pkl & tfidf_vectorizer.pkl)
+- 📊 EDA on Amazon Reviews Dataset (data_eda.py)
+- 🌐 Streamlit-based Web App UI
+- 📥 Download Cleaned Reviews Dataset
+- 📈 Future-Ready Architecture for scaling
 
 # 🖥️ Streamlit App Preview
 ![ReviewClarity](https://github.com/user-attachments/assets/3f79d346-5cc2-4bc4-9c3f-0ed830baa3d8)
 
-before training model...
-Data EDA ![DataEDA_ReviewClarity](https://github.com/user-attachments/assets/7952c481-696a-4073-9089-3ce08efc78f3)
+# Data EDA before training model...
+![DataEDA_ReviewClarity](https://github.com/user-attachments/assets/7952c481-696a-4073-9089-3ce08efc78f3)
 
 # 🚀 Workflow
 1️⃣ Web Scraping
@@ -34,7 +34,6 @@ Clean & preprocess scrapped reviews into a structured dataframe.
 
 3️⃣ Sentiment Model
 Trained using Kaggle's Amazon_Reviews.csv dataset.
-
 Model files:
 sentiment_model.pkl (classification model)
 tfidf_vectorizer.pkl (vectorization model)
